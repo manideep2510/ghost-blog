@@ -1,0 +1,12 @@
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":30933,"level":30,"msg":"Ghost is running in development...","time":"2020-02-07T21:29:26.361Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":30933,"level":30,"msg":"Listening on: 127.0.0.1:2369","time":"2020-02-07T21:29:26.362Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":30933,"level":30,"msg":"Url configured as: https://manideep2510.github.io/blog/","time":"2020-02-07T21:29:26.363Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":30933,"level":30,"msg":"Ctrl+C to shut down","time":"2020-02-07T21:29:26.363Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":30933,"level":30,"msg":"Ghost boot 3.793s","time":"2020-02-07T21:29:26.365Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":30933,"level":40,"msg":"Ghost has shut down","time":"2020-02-07T21:39:51.861Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":32056,"level":30,"msg":"Ghost is running in development...","time":"2020-02-07T22:27:15.832Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":32056,"level":30,"msg":"Listening on: 127.0.0.1:2369","time":"2020-02-07T22:27:15.834Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":32056,"level":30,"msg":"Url configured as: https://manideep2510.github.io/blog/","time":"2020-02-07T22:27:15.834Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":32056,"level":30,"msg":"Ctrl+C to shut down","time":"2020-02-07T22:27:15.835Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":32056,"level":30,"msg":"Ghost boot 3.483s","time":"2020-02-07T22:27:15.837Z","v":0}
+{"name":"Log","hostname":"Manideeps-MacBook-Pro.local","pid":32056,"level":40,"msg":"Ghost has shut down","time":"2020-02-07T22:28:30.550Z","v":0}
